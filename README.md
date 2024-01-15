@@ -1,1 +1,1 @@
-# taiyo.ai
+taiyo.ai
